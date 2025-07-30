@@ -17,3 +17,4 @@ This is a fun interactive web app that includes:
 ## How to Run
 1. Clone the repository or download the ZIP
 2. Open `index.html` in your browser
+3. Enjoy the app!
